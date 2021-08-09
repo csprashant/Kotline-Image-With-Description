@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Image with Text description</string>
+    <string name="sw">Hot Summer</string>
+    <string name="rw">Rainy session</string>
+    <string name="ww">Fresh Winter</string>
+    <string name="close">Close</string>
+    <string name="home">Back</string>
+    <string name="rain_text">A monsoon is traditionally a seasonal reversing wind accompanied by corresponding changes in precipitation  but is now used to describe seasonal changes in atmospheric circulation and precipitation associated with annual latitudinal oscillation of the Intertropical Convergence Zone between its limits to the north and south of the equator.</string>
+    <string name="summer_text">Summer is the hottest of the four temperate seasons, falling after spring and before autumn. At or around the summer solstice (about 3 days before Midsummer Day), the earliest sunrise and latest sunset occurs, the days are longest and the nights are shortest, with day length decreasing as the season progresses after the solstice.</string>
+    <string name="winter_text">Winter is the coldest season of the year in polar and temperate zones; it does not occur in most of the tropical zone. It occurs after autumn and before spring in each year. Winter is caused by the axis of the Earth in that hemisphere being oriented away from the Sun.</string>
+
+</resources>
